@@ -1,4 +1,5 @@
 import random
 options = ['pineapples','apples','mangoes','papayas','oranges']
 fruit = random.choice(options)
-print ('I like ' + fruit)
+fruit2 = random.choice(options)
+print ('I like ' + fruit + fruit2)
