@@ -1,0 +1,3 @@
+import random
+options = ['pineapples','apples','mangoes','papayas','oranges']
+print ('I like ' + fruit)
